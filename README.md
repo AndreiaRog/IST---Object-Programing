@@ -1,2 +1,2 @@
-# IST---Object-Oriented-Programing
+# IST-ObjectOrientedPrograming
 Practical component of university subject. Program written in Java to manage train itineraries based on the available portugese stations and services. It includes a Main Menu that conects to the secondary Menus, allowing someone to simulate a journey and choose amongst several possible itineraries. each passenger can  have their records in the application, and also save and load records. This application uses several java design patterns such as: Command, Visitor, Strategy. 

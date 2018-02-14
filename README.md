@@ -1,2 +1,2 @@
-# IST---Object-Programing
+# IST---Object-Oriented-Programing
 Practical component of university subject 

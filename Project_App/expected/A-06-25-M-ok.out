@@ -1,0 +1,85 @@
+Menu principal
+1 - Reiniciar
+2 - Abrir
+3 - Guardar
+4 - Consulta de serviços
+5 - Gestão de passageiros
+6 - Gestão de itinerários
+0 - Sair
+Escolha uma opção: Menu de gestão de itinerários
+1 - Mostrar todos os itinerários
+2 - Mostrar itinerários associados a um passageiro
+3 - Registar itinerário para um passageiro
+0 - Sair
+Escolha uma opção: Identificador do passageiro: Nome da estação de partida: Nome da estação de destino: Data de partida (YYYY-MM-DD): Hora de partida (HH:MM):
+Itinerário 1 para 2017-12-31 @ 14.20
+Serviço #990 @ 5.91
+06:02 A1
+07:03 A2
+07:04 B3
+Serviço #690 @ 8.29
+07:31 B3
+07:53 B41
+08:14 B5
+08:23 B6
+08:24 B7
+
+Itinerário 2 para 2017-12-31 @ 5.30
+Serviço #490 @ 0.36
+06:02 A1
+06:03 A21
+06:04 B4
+Serviço #670 @ 4.94
+07:53 B4
+08:14 B51
+08:24 B6
+08:25 B7
+
+Itinerário 3 para 2017-12-31 @ 22.94
+Serviço #900 @ 12.20
+06:02 A1
+08:03 Z2
+Serviço #180 @ 10.74
+08:17 Z2
+08:31 Z5
+08:53 Z41
+09:14 Z51
+09:24 Z6
+09:38 B7
+
+Itinerário 4 para 2017-12-31 @ 17.84
+Serviço #590 @ 8.95
+06:02 A1
+09:03 A22
+09:04 B5
+Serviço #780 @ 8.88
+09:31 B5
+09:53 B41
+10:14 B51
+10:24 B6
+10:38 B7
+
+Itinerário 5 para 2017-12-31 @ 6.63
+Serviço #390 @ 1.69
+06:05 A1
+06:13 A211
+06:14 B4
+Serviço #670 @ 4.94
+07:53 B4
+08:14 B51
+08:24 B6
+08:25 B7
+Número do itinerário: Menu de gestão de itinerários
+1 - Mostrar todos os itinerários
+2 - Mostrar itinerários associados a um passageiro
+3 - Registar itinerário para um passageiro
+0 - Sair
+Escolha uma opção: Menu principal
+1 - Reiniciar
+2 - Abrir
+3 - Guardar
+4 - Consulta de serviços
+5 - Gestão de passageiros
+6 - Gestão de itinerários
+0 - Sair
+Escolha uma opção:

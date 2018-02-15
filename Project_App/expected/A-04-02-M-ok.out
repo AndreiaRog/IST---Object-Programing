@@ -1,0 +1,110 @@
+Menu principal
+1 - Reiniciar
+2 - Abrir
+3 - Guardar
+4 - Consulta de serviços
+5 - Gestão de passageiros
+6 - Gestão de itinerários
+0 - Sair
+Escolha uma opção: Ficheiro a abrir: Menu principal
+1 - Reiniciar
+2 - Abrir
+3 - Guardar
+4 - Consulta de serviços
+5 - Gestão de passageiros
+6 - Gestão de itinerários
+0 - Sair
+Escolha uma opção: Consulta de serviços
+1 - Mostrar todos os serviços
+2 - Mostrar serviço com um dado número
+3 - Mostrar serviços com início em estação
+4 - Mostrar serviços com término em estação
+0 - Sair
+Escolha uma opção: Serviço #694 @ 12.20
+16:57 Évora
+17:08 Casa Branca
+17:22 Vendas Novas
+17:29 São João das Craveiras
+17:33 Pegoes
+17:38 Fernando Pó
+17:43 Poceirão
+17:51 Pinhal Novo
+18:14 Pragal
+18:24 Lisboa - Sete Rios
+18:28 Lisboa - Entrecampos
+18:36 Lisboa - Oriente
+Serviço #696 @ 12.20
+19:06 Évora
+19:17 Casa Branca
+19:31 Vendas Novas
+19:53 Pinhal Novo
+20:14 Pragal
+20:24 Lisboa - Sete Rios
+20:28 Lisboa - Entrecampos
+20:36 Lisboa - Oriente
+Serviço #6403 @ 9.50
+05:41 Lisboa - Santa Apolónia
+05:55 Lisboa - Entrecampos
+05:58 Lisboa - Sete Rios
+06:13 Agualva-Cacém
+06:18 Mira Sintra-Meleças
+06:22 Telhal
+06:26 Sabugo
+06:31 Pedra Furada
+06:35 Mafra
+06:42 Malveira
+06:47 Jerumelo
+06:52 Sapataria
+06:55 Pero Negro
+06:58 Zibreira
+07:01 Feliteira
+07:05 Dois Portos
+07:10 Runa
+07:15 Torres Vedras
+07:23 Ramalhal
+07:30 Outeiro
+07:41 Bombarral
+07:46 Paúl
+07:50 São Mamede
+07:54 Dagorda-Peniche
+07:57 Óbidos
+08:03 Caldas da Rainha
+Consulta de serviços
+1 - Mostrar todos os serviços
+2 - Mostrar serviço com um dado número
+3 - Mostrar serviços com início em estação
+4 - Mostrar serviços com término em estação
+0 - Sair
+Escolha uma opção: Menu principal
+1 - Reiniciar
+2 - Abrir
+3 - Guardar
+4 - Consulta de serviços
+5 - Gestão de passageiros
+6 - Gestão de itinerários
+0 - Sair
+Escolha uma opção: Menu de gestão de passageiros
+1 - Mostrar todos os passageiros
+2 - Mostrar passageiro
+3 - Registar passageiro
+4 - Mudar nome de passageiro
+0 - Sair
+Escolha uma opção: 0|António Costa|NORMAL|0|0.00|00:00
+1|Marcelo Rebelo de Sousa|NORMAL|0|0.00|00:00
+2|Luke Skywalker|NORMAL|0|0.00|00:00
+3|Darth Vader|NORMAL|0|0.00|00:00
+Menu de gestão de passageiros
+1 - Mostrar todos os passageiros
+2 - Mostrar passageiro
+3 - Registar passageiro
+4 - Mudar nome de passageiro
+0 - Sair
+Escolha uma opção: Menu principal
+1 - Reiniciar
+2 - Abrir
+3 - Guardar
+4 - Consulta de serviços
+5 - Gestão de passageiros
+6 - Gestão de itinerários
+0 - Sair
+Escolha uma opção: 

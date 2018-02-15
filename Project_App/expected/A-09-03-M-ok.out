@@ -1,0 +1,169 @@
+Menu principal
+1 - Reiniciar
+2 - Abrir
+3 - Guardar
+4 - Consulta de serviços
+5 - Gestão de passageiros
+6 - Gestão de itinerários
+0 - Sair
+Escolha uma opção: Menu de gestão de passageiros
+1 - Mostrar todos os passageiros
+2 - Mostrar passageiro
+3 - Registar passageiro
+4 - Mudar nome de passageiro
+0 - Sair
+Escolha uma opção: 0|Obi-Wan|NORMAL|4|149.79|44:03
+1|Yoda|NORMAL|0|0.00|00:00
+Menu de gestão de passageiros
+1 - Mostrar todos os passageiros
+2 - Mostrar passageiro
+3 - Registar passageiro
+4 - Mudar nome de passageiro
+0 - Sair
+Escolha uma opção: Menu principal
+1 - Reiniciar
+2 - Abrir
+3 - Guardar
+4 - Consulta de serviços
+5 - Gestão de passageiros
+6 - Gestão de itinerários
+0 - Sair
+Escolha uma opção: Menu de gestão de itinerários
+1 - Mostrar todos os itinerários
+2 - Mostrar itinerários associados a um passageiro
+3 - Registar itinerário para um passageiro
+0 - Sair
+Escolha uma opção: Identificador do passageiro: Nome da estação de partida: Nome da estação de destino: Data de partida (YYYY-MM-DD): Hora de partida (HH:MM): 
+Itinerário 1 para 2018-01-12 @ 51.50
+Serviço #180 @ 51.50
+05:47 Porto - Campanhã
+08:10 Casa Branca
+11:23 Faro
+Número do itinerário: Menu de gestão de itinerários
+1 - Mostrar todos os itinerários
+2 - Mostrar itinerários associados a um passageiro
+3 - Registar itinerário para um passageiro
+0 - Sair
+Escolha uma opção: Menu principal
+1 - Reiniciar
+2 - Abrir
+3 - Guardar
+4 - Consulta de serviços
+5 - Gestão de passageiros
+6 - Gestão de itinerários
+0 - Sair
+Escolha uma opção: Menu de gestão de passageiros
+1 - Mostrar todos os passageiros
+2 - Mostrar passageiro
+3 - Registar passageiro
+4 - Mudar nome de passageiro
+0 - Sair
+Escolha uma opção: 0|Obi-Wan|NORMAL|5|201.29|49:39
+1|Yoda|NORMAL|0|0.00|00:00
+Menu de gestão de passageiros
+1 - Mostrar todos os passageiros
+2 - Mostrar passageiro
+3 - Registar passageiro
+4 - Mudar nome de passageiro
+0 - Sair
+Escolha uma opção: Menu principal
+1 - Reiniciar
+2 - Abrir
+3 - Guardar
+4 - Consulta de serviços
+5 - Gestão de passageiros
+6 - Gestão de itinerários
+0 - Sair
+Escolha uma opção: Menu de gestão de itinerários
+1 - Mostrar todos os itinerários
+2 - Mostrar itinerários associados a um passageiro
+3 - Registar itinerário para um passageiro
+0 - Sair
+Escolha uma opção: Identificador do passageiro: Nome da estação de partida: Nome da estação de destino: Data de partida (YYYY-MM-DD): Hora de partida (HH:MM): 
+Itinerário 1 para 2018-12-12 @ 51.50
+Serviço #180 @ 51.50
+05:47 Porto - Campanhã
+08:10 Casa Branca
+11:23 Faro
+Número do itinerário: Menu de gestão de itinerários
+1 - Mostrar todos os itinerários
+2 - Mostrar itinerários associados a um passageiro
+3 - Registar itinerário para um passageiro
+0 - Sair
+Escolha uma opção: Menu principal
+1 - Reiniciar
+2 - Abrir
+3 - Guardar
+4 - Consulta de serviços
+5 - Gestão de passageiros
+6 - Gestão de itinerários
+0 - Sair
+Escolha uma opção: Menu de gestão de passageiros
+1 - Mostrar todos os passageiros
+2 - Mostrar passageiro
+3 - Registar passageiro
+4 - Mudar nome de passageiro
+0 - Sair
+Escolha uma opção: 0|Obi-Wan|FREQUENTE|6|252.79|55:15
+1|Yoda|NORMAL|0|0.00|00:00
+Menu de gestão de passageiros
+1 - Mostrar todos os passageiros
+2 - Mostrar passageiro
+3 - Registar passageiro
+4 - Mudar nome de passageiro
+0 - Sair
+Escolha uma opção: Menu principal
+1 - Reiniciar
+2 - Abrir
+3 - Guardar
+4 - Consulta de serviços
+5 - Gestão de passageiros
+6 - Gestão de itinerários
+0 - Sair
+Escolha uma opção: Menu de gestão de itinerários
+1 - Mostrar todos os itinerários
+2 - Mostrar itinerários associados a um passageiro
+3 - Registar itinerário para um passageiro
+0 - Sair
+Escolha uma opção: Identificador do passageiro: Nome da estação de partida: Nome da estação de destino: Data de partida (YYYY-MM-DD): Hora de partida (HH:MM): 
+Itinerário 1 para 2019-12-12 @ 51.50
+Serviço #180 @ 51.50
+05:47 Porto - Campanhã
+08:10 Casa Branca
+11:23 Faro
+Número do itinerário: Menu de gestão de itinerários
+1 - Mostrar todos os itinerários
+2 - Mostrar itinerários associados a um passageiro
+3 - Registar itinerário para um passageiro
+0 - Sair
+Escolha uma opção: Menu principal
+1 - Reiniciar
+2 - Abrir
+3 - Guardar
+4 - Consulta de serviços
+5 - Gestão de passageiros
+6 - Gestão de itinerários
+0 - Sair
+Escolha uma opção: Menu de gestão de passageiros
+1 - Mostrar todos os passageiros
+2 - Mostrar passageiro
+3 - Registar passageiro
+4 - Mudar nome de passageiro
+0 - Sair
+Escolha uma opção: 0|Obi-Wan|FREQUENTE|7|296.56|60:51
+1|Yoda|NORMAL|0|0.00|00:00
+Menu de gestão de passageiros
+1 - Mostrar todos os passageiros
+2 - Mostrar passageiro
+3 - Registar passageiro
+4 - Mudar nome de passageiro
+0 - Sair
+Escolha uma opção: Menu principal
+1 - Reiniciar
+2 - Abrir
+3 - Guardar
+4 - Consulta de serviços
+5 - Gestão de passageiros
+6 - Gestão de itinerários
+0 - Sair
+Escolha uma opção: 

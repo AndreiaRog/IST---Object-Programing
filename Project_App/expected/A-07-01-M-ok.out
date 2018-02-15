@@ -1,0 +1,54 @@
+Menu principal
+1 - Reiniciar
+2 - Abrir
+3 - Guardar
+4 - Consulta de serviços
+5 - Gestão de passageiros
+6 - Gestão de itinerários
+0 - Sair
+Escolha uma opção: Menu de gestão de itinerários
+1 - Mostrar todos os itinerários
+2 - Mostrar itinerários associados a um passageiro
+3 - Registar itinerário para um passageiro
+0 - Sair
+Escolha uma opção: Identificador do passageiro: == Passageiro 0: Obi-Wan ==
+
+Itinerário 1 para 2017-10-18 @ 51.50
+Serviço #180 @ 51.50
+05:47 Porto - Campanhã
+11:23 Faro
+Menu de gestão de itinerários
+1 - Mostrar todos os itinerários
+2 - Mostrar itinerários associados a um passageiro
+3 - Registar itinerário para um passageiro
+0 - Sair
+Escolha uma opção: Menu principal
+1 - Reiniciar
+2 - Abrir
+3 - Guardar
+4 - Consulta de serviços
+5 - Gestão de passageiros
+6 - Gestão de itinerários
+0 - Sair
+Escolha uma opção: Menu de gestão de passageiros
+1 - Mostrar todos os passageiros
+2 - Mostrar passageiro
+3 - Registar passageiro
+4 - Mudar nome de passageiro
+0 - Sair
+Escolha uma opção: Identificador do passageiro: 1|Yoda|NORMAL|0|0.00|00:00
+Menu de gestão de passageiros
+1 - Mostrar todos os passageiros
+2 - Mostrar passageiro
+3 - Registar passageiro
+4 - Mudar nome de passageiro
+0 - Sair
+Escolha uma opção: Menu principal
+1 - Reiniciar
+2 - Abrir
+3 - Guardar
+4 - Consulta de serviços
+5 - Gestão de passageiros
+6 - Gestão de itinerários
+0 - Sair
+Escolha uma opção: 

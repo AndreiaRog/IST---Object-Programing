@@ -1,0 +1,30 @@
+Menu principal
+1 - Reiniciar
+2 - Abrir
+3 - Guardar
+4 - Consulta de serviços
+5 - Gestão de passageiros
+6 - Gestão de itinerários
+0 - Sair
+Escolha uma opção: Consulta de serviços
+1 - Mostrar todos os serviços
+2 - Mostrar serviço com um dado número
+3 - Mostrar serviços com início em estação
+4 - Mostrar serviços com término em estação
+0 - Sair
+Escolha uma opção: Nome da estação: Mostrar serviços com término em estação: Operação inválida: A estação com o nome 'IST - Taguspark' não existe.
+Consulta de serviços
+1 - Mostrar todos os serviços
+2 - Mostrar serviço com um dado número
+3 - Mostrar serviços com início em estação
+4 - Mostrar serviços com término em estação
+0 - Sair
+Escolha uma opção: Menu principal
+1 - Reiniciar
+2 - Abrir
+3 - Guardar
+4 - Consulta de serviços
+5 - Gestão de passageiros
+6 - Gestão de itinerários
+0 - Sair
+Escolha uma opção: 

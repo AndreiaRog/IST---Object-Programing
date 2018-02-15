@@ -1,0 +1,74 @@
+Menu principal
+1 - Reiniciar
+2 - Abrir
+3 - Guardar
+4 - Consulta de serviços
+5 - Gestão de passageiros
+6 - Gestão de itinerários
+0 - Sair
+Escolha uma opção: Menu de gestão de itinerários
+1 - Mostrar todos os itinerários
+2 - Mostrar itinerários associados a um passageiro
+3 - Registar itinerário para um passageiro
+0 - Sair
+Escolha uma opção: Identificador do passageiro: Nome da estação de partida: Nome da estação de destino: Data de partida (YYYY-MM-DD): Hora de partida (HH:MM): 
+Itinerário 1 para 2017-12-31 @ 9.49
+Serviço #694 @ 9.49
+16:57 Évora
+17:08 Casa Branca
+17:22 Vendas Novas
+17:29 São João das Craveiras
+17:33 Pegoes
+17:38 Fernando Pó
+17:43 Poceirão
+17:51 Pinhal Novo
+18:14 Pragal
+
+Itinerário 2 para 2017-12-31 @ 9.22
+Serviço #696 @ 9.22
+19:06 Évora
+19:17 Casa Branca
+19:31 Vendas Novas
+19:53 Pinhal Novo
+20:14 Pragal
+Número do itinerário: Registar itinerário para um passageiro: Operação inválida: A escolha do itinerário -1 é inválida para o passageiro 1.
+Menu de gestão de itinerários
+1 - Mostrar todos os itinerários
+2 - Mostrar itinerários associados a um passageiro
+3 - Registar itinerário para um passageiro
+0 - Sair
+Escolha uma opção: Identificador do passageiro: Nome da estação de partida: Nome da estação de destino: Data de partida (YYYY-MM-DD): Hora de partida (HH:MM): 
+Itinerário 1 para 2017-12-31 @ 9.49
+Serviço #694 @ 9.49
+16:57 Évora
+17:08 Casa Branca
+17:22 Vendas Novas
+17:29 São João das Craveiras
+17:33 Pegoes
+17:38 Fernando Pó
+17:43 Poceirão
+17:51 Pinhal Novo
+18:14 Pragal
+
+Itinerário 2 para 2017-12-31 @ 9.22
+Serviço #696 @ 9.22
+19:06 Évora
+19:17 Casa Branca
+19:31 Vendas Novas
+19:53 Pinhal Novo
+20:14 Pragal
+Número do itinerário: Registar itinerário para um passageiro: Operação inválida: A escolha do itinerário 3 é inválida para o passageiro 1.
+Menu de gestão de itinerários
+1 - Mostrar todos os itinerários
+2 - Mostrar itinerários associados a um passageiro
+3 - Registar itinerário para um passageiro
+0 - Sair
+Escolha uma opção: Menu principal
+1 - Reiniciar
+2 - Abrir
+3 - Guardar
+4 - Consulta de serviços
+5 - Gestão de passageiros
+6 - Gestão de itinerários
+0 - Sair
+Escolha uma opção: 

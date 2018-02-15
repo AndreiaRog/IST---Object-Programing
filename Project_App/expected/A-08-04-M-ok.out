@@ -1,0 +1,70 @@
+Menu principal
+1 - Reiniciar
+2 - Abrir
+3 - Guardar
+4 - Consulta de serviços
+5 - Gestão de passageiros
+6 - Gestão de itinerários
+0 - Sair
+Escolha uma opção: Menu de gestão de itinerários
+1 - Mostrar todos os itinerários
+2 - Mostrar itinerários associados a um passageiro
+3 - Registar itinerário para um passageiro
+0 - Sair
+Escolha uma opção: Identificador do passageiro: == Passageiro 0: Obi-Wan ==
+
+Itinerário 1 para 2017-09-19 @ 51.50
+Serviço #180 @ 51.50
+05:47 Porto - Campanhã
+08:10 Casa Branca
+11:23 Faro
+
+Itinerário 2 para 2017-10-14 @ 32.76
+Serviço #180 @ 21.92
+05:47 Porto - Campanhã
+08:10 Casa Branca
+Serviço #694 @ 10.84
+17:08 Casa Branca
+18:36 Lisboa - Oriente
+
+Itinerário 3 para 2017-10-15 @ 32.76
+Serviço #180 @ 21.92
+05:47 Porto - Campanhã
+08:10 Casa Branca
+Serviço #694 @ 10.84
+17:08 Casa Branca
+18:36 Lisboa - Oriente
+
+Itinerário 4 para 2017-10-17 @ 51.50
+Serviço #180 @ 51.50
+05:47 Porto - Campanhã
+08:10 Casa Branca
+11:23 Faro
+
+Itinerário 5 para 2017-10-18 @ 51.50
+Serviço #180 @ 51.50
+05:47 Porto - Campanhã
+08:10 Casa Branca
+11:23 Faro
+
+Itinerário 6 para 2017-10-19 @ 32.76
+Serviço #180 @ 21.92
+05:47 Porto - Campanhã
+08:10 Casa Branca
+Serviço #694 @ 10.84
+17:08 Casa Branca
+18:36 Lisboa - Oriente
+Menu de gestão de itinerários
+1 - Mostrar todos os itinerários
+2 - Mostrar itinerários associados a um passageiro
+3 - Registar itinerário para um passageiro
+0 - Sair
+Escolha uma opção: Menu principal
+1 - Reiniciar
+2 - Abrir
+3 - Guardar
+4 - Consulta de serviços
+5 - Gestão de passageiros
+6 - Gestão de itinerários
+0 - Sair
+Escolha uma opção: 

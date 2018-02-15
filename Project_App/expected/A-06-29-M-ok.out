@@ -1,0 +1,92 @@
+Menu principal
+1 - Reiniciar
+2 - Abrir
+3 - Guardar
+4 - Consulta de serviços
+5 - Gestão de passageiros
+6 - Gestão de itinerários
+0 - Sair
+Escolha uma opção: Menu de gestão de itinerários
+1 - Mostrar todos os itinerários
+2 - Mostrar itinerários associados a um passageiro
+3 - Registar itinerário para um passageiro
+0 - Sair
+Escolha uma opção: Identificador do passageiro: Nome da estação de partida: Nome da estação de destino: Data de partida (YYYY-MM-DD): Hora de partida (HH:MM): 
+Itinerário 1 para 2017-12-23 @ 33.57
+Serviço #590 @ 11.37
+07:02 A1
+07:03 A2
+07:04 B3
+07:26 A4
+07:48 A5
+07:57 A6
+Serviço #460 @ 22.20
+08:02 A6
+08:03 B1
+08:04 B2
+
+Itinerário 2 para 2017-12-23 @ 33.57
+Serviço #510 @ 11.37
+08:02 A1
+08:03 A2
+08:04 B3
+08:26 A4
+08:48 A5
+08:57 A6
+Serviço #430 @ 22.20
+09:02 A6
+09:03 B1
+09:04 B2
+
+Itinerário 3 para 2017-12-23 @ 33.57
+Serviço #520 @ 11.37
+09:02 A1
+09:03 A2
+09:04 B3
+09:26 A4
+09:48 A5
+09:57 A6
+Serviço #500 @ 22.20
+10:02 A6
+10:03 B1
+10:04 B2
+
+Itinerário 4 para 2017-12-23 @ 33.57
+Serviço #550 @ 11.37
+10:02 A1
+10:03 A2
+10:04 B3
+10:26 A4
+10:48 A5
+10:57 A6
+Serviço #480 @ 22.20
+11:02 A6
+11:03 B1
+11:04 B2
+
+Itinerário 5 para 2017-12-23 @ 33.57
+Serviço #790 @ 11.37
+14:02 A1
+14:03 A2
+14:04 B3
+14:26 A4
+14:48 A5
+14:57 A6
+Serviço #410 @ 22.20
+18:02 A6
+18:03 B1
+18:04 B2
+Número do itinerário: Menu de gestão de itinerários
+1 - Mostrar todos os itinerários
+2 - Mostrar itinerários associados a um passageiro
+3 - Registar itinerário para um passageiro
+0 - Sair
+Escolha uma opção: Menu principal
+1 - Reiniciar
+2 - Abrir
+3 - Guardar
+4 - Consulta de serviços
+5 - Gestão de passageiros
+6 - Gestão de itinerários
+0 - Sair
+Escolha uma opção: 

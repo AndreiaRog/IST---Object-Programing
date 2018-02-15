@@ -1,0 +1,40 @@
+Menu principal
+1 - Reiniciar
+2 - Abrir
+3 - Guardar
+4 - Consulta de serviços
+5 - Gestão de passageiros
+6 - Gestão de itinerários
+0 - Sair
+Escolha uma opção: Menu de gestão de itinerários
+1 - Mostrar todos os itinerários
+2 - Mostrar itinerários associados a um passageiro
+3 - Registar itinerário para um passageiro
+0 - Sair
+Escolha uma opção: Identificador do passageiro: Nome da estação de partida: Nome da estação de destino: Data de partida (YYYY-MM-DD): Hora de partida (HH:MM): 
+Itinerário 1 para 2017-12-21 @ 16.04
+Serviço #590 @ 9.64
+07:02 Lisboa - Oriente
+07:10 Lisboa - Entrecampos
+07:57 Poceirão
+08:06 Pegoes
+08:10 São João das Craveiras
+08:21 Vendas Novas
+Serviço #690 @ 6.40
+08:31 Vendas Novas
+08:53 Pinhal Novo
+09:14 Pragal
+Número do itinerário: Menu de gestão de itinerários
+1 - Mostrar todos os itinerários
+2 - Mostrar itinerários associados a um passageiro
+3 - Registar itinerário para um passageiro
+0 - Sair
+Escolha uma opção: Menu principal
+1 - Reiniciar
+2 - Abrir
+3 - Guardar
+4 - Consulta de serviços
+5 - Gestão de passageiros
+6 - Gestão de itinerários
+0 - Sair
+Escolha uma opção: 

@@ -1,0 +1,92 @@
+Menu principal
+1 - Reiniciar
+2 - Abrir
+3 - Guardar
+4 - Consulta de serviços
+5 - Gestão de passageiros
+6 - Gestão de itinerários
+0 - Sair
+Escolha uma opção: Menu de gestão de itinerários
+1 - Mostrar todos os itinerários
+2 - Mostrar itinerários associados a um passageiro
+3 - Registar itinerário para um passageiro
+0 - Sair
+Escolha uma opção: == Passageiro 0: Obi-Wan ==
+
+Itinerário 1 para 2017-10-14 @ 32.76
+Serviço #180 @ 21.92
+05:47 Porto - Campanhã
+08:10 Casa Branca
+Serviço #694 @ 10.84
+17:08 Casa Branca
+18:36 Lisboa - Oriente
+
+Itinerário 2 para 2017-10-15 @ 32.76
+Serviço #180 @ 21.92
+05:47 Porto - Campanhã
+08:10 Casa Branca
+Serviço #694 @ 10.84
+17:08 Casa Branca
+18:36 Lisboa - Oriente
+
+Itinerário 3 para 2017-10-17 @ 51.50
+Serviço #180 @ 51.50
+05:47 Porto - Campanhã
+08:10 Casa Branca
+11:23 Faro
+
+Itinerário 4 para 2017-10-18 @ 32.76
+Serviço #180 @ 21.92
+05:47 Porto - Campanhã
+08:10 Casa Branca
+Serviço #694 @ 10.84
+17:08 Casa Branca
+18:36 Lisboa - Oriente
+== Passageiro 1: Yoda ==
+
+Itinerário 1 para 2017-10-18 @ 21.92
+Serviço #180 @ 21.92
+05:47 Porto - Campanhã
+08:10 Casa Branca
+== Passageiro 2: Like Skywalker ==
+
+Itinerário 1 para 2017-10-18 @ 32.76
+Serviço #180 @ 21.92
+05:47 Porto - Campanhã
+08:10 Casa Branca
+Serviço #694 @ 10.84
+17:08 Casa Branca
+18:36 Lisboa - Oriente
+
+Itinerário 2 para 2017-10-19 @ 21.92
+Serviço #180 @ 21.92
+05:47 Porto - Campanhã
+08:10 Casa Branca
+== Passageiro 3: Han Solo ==
+
+Itinerário 1 para 2017-10-18 @ 51.50
+Serviço #180 @ 51.50
+05:47 Porto - Campanhã
+08:10 Casa Branca
+11:23 Faro
+== Passageiro 4: Darth Vader ==
+
+Itinerário 1 para 2017-10-19 @ 51.50
+Serviço #180 @ 51.50
+05:47 Porto - Campanhã
+08:10 Casa Branca
+11:23 Faro
+Menu de gestão de itinerários
+1 - Mostrar todos os itinerários
+2 - Mostrar itinerários associados a um passageiro
+3 - Registar itinerário para um passageiro
+0 - Sair
+Escolha uma opção: Menu principal
+1 - Reiniciar
+2 - Abrir
+3 - Guardar
+4 - Consulta de serviços
+5 - Gestão de passageiros
+6 - Gestão de itinerários
+0 - Sair
+Escolha uma opção: 

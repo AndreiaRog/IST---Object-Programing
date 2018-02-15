@@ -1,0 +1,24 @@
+SERVICE|590|12.2|07:02|Lisboa - Oriente|07:10|Lisboa - Entrecampos|07:14|Lisboa - Sete Rios|07:26|Pragal|07:48|Pinhal Novo|07:57|Poceirão|08:01|Fernando Pó|08:06|Pegoes|08:10|São João das Craveiras|08:18|Vendas Novas|08:32|Casa Branca|08:42|Évora
+SERVICE|572|21.2|14:02|Lisboa - Oriente|14:10|Lisboa - Entrecampos|14:14|Lisboa - Sete Rios|14:26|Pragal|14:48|Pinhal Novo|15:16|Grândola|15:30|Ermidas-Sado|15:52|Funcheira|16:27|Santa Clara-Sabóia|16:54|Messines-Alte|17:04|Tunes|17:10|Albufeira - Ferreiras|17:22|Loulé|17:32|Faro
+SERVICE|184|51.5|15:05|Faro|15:16|Loulé|15:29|Albufeira - Ferreiras|15:35|Tunes|17:23|Pinhal Novo|17:57|Lisboa - Entrecampos|18:09|Lisboa - Oriente|19:45|Coimbra-B|20:12|Aveiro|20:39|Vila Nova de Gaia-Devesas|20:44|Porto - Campanhã
+SERVICE|570|21.2|10:02|Lisboa - Oriente|10:10|Lisboa - Entrecampos|10:14|Lisboa - Sete Rios|10:26|Pragal|10:48|Pinhal Novo|11:19|Grândola|11:33|Ermidas-Sado|11:55|Funcheira|12:24|Santa Clara-Sabóia|12:52|Messines-Alte|13:02|Tunes|13:07|Albufeira - Ferreiras|13:19|Loulé|13:30|Faro
+SERVICE|574|21.2|17:32|Lisboa - Oriente|17:40|Lisboa - Entrecampos|17:44|Lisboa - Sete Rios|17:56|Pragal|18:18|Pinhal Novo|18:46|Grândola|19:01|Ermidas-Sado|19:29|Funcheira|19:57|Santa Clara-Sabóia|20:24|Messines-Alte|20:34|Tunes|20:39|Albufeira - Ferreiras|20:51|Loulé|21:02|Faro
+SERVICE|670|21.2|08:24|Faro|08:35|Loulé|08:47|Albufeira - Ferreiras|08:53|Tunes|09:02|Messines-Alte|09:28|Santa Clara-Sabóia|10:00|Funcheira|10:22|Ermidas-Sado|10:37|Grândola|11:07|Pinhal Novo|11:30|Pragal|11:43|Lisboa - Sete Rios|11:46|Lisboa - Entrecampos|11:56|Lisboa - Oriente
+SERVICE|592|12.2|09:02|Lisboa - Oriente|09:10|Lisboa - Entrecampos|09:14|Lisboa - Sete Rios|09:26|Pragal|09:48|Pinhal Novo|10:10|Vendas Novas|10:24|Casa Branca|10:35|Évora
+SERVICE|596|12.2|17:02|Lisboa - Oriente|17:10|Lisboa - Entrecampos|17:14|Lisboa - Sete Rios|17:26|Pragal|17:48|Pinhal Novo|18:10|Vendas Novas|18:24|Casa Branca|18:35|IST - Taguspark
+SERVICE|598|12.2|19:02|Lisboa - Oriente|19:10|Lisboa - Entrecampos|19:14|Lisboa - Sete Rios|19:26|Pragal|19:48|Pinhal Novo|20:10|Vendas Novas|20:24|Casa Branca|20:35|Évora
+SERVICE|690|12.2|07:06|Évora|07:17|Casa Branca|07:31|Vendas Novas|07:53|Pinhal Novo|08:14|Pragal|08:24|Lisboa - Sete Rios|08:28|Lisboa - Entrecampos|08:36|Lisboa - Oriente
+SERVICE|692|12.2|09:06|Évora|09:17|Casa Branca|09:31|Vendas Novas|09:53|Pinhal Novo|10:14|Pragal|10:24|Lisboa - Sete Rios|10:28|Lisboa - Entrecampos|10:36|Lisboa - Oriente
+SERVICE|694|12.2|16:57|Évora|17:08|Casa Branca|17:22|Vendas Novas|17:29|São João das Craveiras|17:33|Pegoes|17:38|Fernando Pó|17:43|Poceirão|17:51|Pinhal Novo|18:14|Pragal|18:24|Lisboa - Sete Rios|18:28|Lisboa - Entrecampos|18:36|Lisboa - Oriente
+SERVICE|696|12.2|19:06|Évora|19:17|Casa Branca|19:31|Vendas Novas|19:53|Pinhal Novo|20:14|Pragal|20:24|Lisboa - Sete Rios|20:28|Lisboa - Entrecampos|20:36|Lisboa - Oriente
+SERVICE|180|51.5|05:47|Porto - Campanhã|05:52|Vila Nova de Gaia-Devesas|06:21|Aveiro|06:46|Coimbra-B|08:23|Lisboa - Oriente|08:31|Lisboa - Entrecampos|09:06|Pinhal Novo|10:54|Tunes|11:01|Albufeira - Ferreiras|11:13|Loulé|11:23|Faro
+SERVICE|186|51.5|15:47|Porto - Campanhã|15:52|Vila Nova de Gaia-Devesas|16:21|Aveiro|16:46|Coimbra-B|18:23|Lisboa - Oriente|18:31|Lisboa - Entrecampos|19:06|Pinhal Novo|20:54|Tunes|21:01|Albufeira - Ferreiras|21:13|Loulé|21:23|Faro
+SERVICE|674|21.2|17:56|Faro|18:06|Loulé|18:18|Albufeira - Ferreiras|18:25|Tunes|18:34|Messines-Alte|19:00|Santa Clara-Sabóia|19:29|Funcheira|19:53|Ermidas-Sado|20:08|Grândola|20:40|Pinhal Novo|21:04|Pragal|21:14|Lisboa - Sete Rios|21:17|Lisboa - Entrecampos|21:26|Lisboa - Oriente
+SERVICE|182|51.5|07:00|Faro|07:10|Loulé|07:23|Albufeira - Ferreiras|07:29|Tunes|07:59|Santa Clara-Sabóia|08:23|Funcheira|08:42|Ermidas-Sado|08:54|Grândola|09:23|Pinhal Novo|09:57|Lisboa - Entrecampos|10:09|Lisboa - Oriente|11:45|Coimbra-B|12:12|Aveiro|12:39|Vila Nova de Gaia-Devesas|12:44|Porto - Campanhã
+SERVICE|672|21.2|13:54|Faro|14:05|Loulé|14:17|Albufeira - Ferreiras|14:23|Tunes|14:31|Messines-Alte|14:57|Santa Clara-Sabóia|15:26|Funcheira|15:47|Ermidas-Sado|16:04|Grândola|16:37|Pinhal Novo|17:04|Pragal|17:14|Lisboa - Sete Rios|17:17|Lisboa - Entrecampos|17:26|Lisboa - Oriente
+PASSENGER|Azura
+PASSENGER|Boethiah
+PASSENGER|Clavicus Vile
+PASSENGER|Hermaeus Mora
+PASSENGER|Hircine
+PASSENGER|Malacath
